@@ -1,0 +1,4 @@
+include ':daftarmakanan'
+include ':daftarbuah'
+include ':app'
+rootProject.name = "List & RecyclerView"
